@@ -1,0 +1,6 @@
+{
+  "name": "Website Kelas",
+  "description": "Website profil dan informasi kelas dengan 11 siswa, struktur organisasi, jadwal piket harian, dan mading kelas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
